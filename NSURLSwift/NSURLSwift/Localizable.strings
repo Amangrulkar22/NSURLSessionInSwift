@@ -1,0 +1,14 @@
+/* 
+  NSLocalizable.strings
+  NSURLSwift
+
+  Created by Ashwinkumar on 08/10/15.
+  Copyright (c) 2015 Ashwinkumar. All rights reserved.
+*/
+
+"ALERT_TITLE" = "Alert Title";
+"ERROR_ALERT_TITLE" = "Error Occured!";
+
+"MESSAGE_SERVER_NOT_RESPONDING" = "Server not responding";
+"MESSAGE_No_INTERNET_CONNECTION" = "No internet connection";
+
